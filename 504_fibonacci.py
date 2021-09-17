@@ -14,4 +14,4 @@ print(s.fib(0))
 print(s.fib(1))
 print(s.fib(2))
 print(s.fib(10))
-print(s.fib(50)) # this will take a while
+# print(s.fib(50)) # this will take a while
